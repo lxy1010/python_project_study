@@ -1,2 +1,2 @@
-# python_project
+# python
 python学习文件
